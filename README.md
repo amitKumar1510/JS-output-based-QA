@@ -1,7 +1,7 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <h1>JavaScript Questions</h1>
-  <p>This README contains over 200 + JavaScript questions, including 150 + advanced and 40 basic questions focused on understanding JavaScript output and behavior.</p>
+  <p>This README contains over 200+ JavaScript questions, including 150+ advanced and 40 basic questions focused on understanding JavaScript output and behavior.</p>
 </div>
 
 ---
